@@ -5,6 +5,7 @@
   + [High dimensional statistics and machine learning](https://github.com/axmat/high-dimensional-statistics)
   + [Tenseur : a C++20 tensor library](https://github.com/axmat/Tenseur)
   + [Stochastic processes and applications](https://github.com/axmat/stochastic-process)
+  + [Mathematical optimization](https://github.com/axmat/optimization)
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with :
   + Optimal transport (ML, PDEs and Eulerian approach)
