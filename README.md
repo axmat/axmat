@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**axmat/axmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on : 
+  + [Optimal transport](https://github.com/axmat/optimal-transport)
+  + [High dimensional statistics and machine learning](https://github.com/axmat/high-dimensional-statistics)
+  + [Tenseur : a C++20 tensor library](https://github.com/axmat/Tenseur)
+  + [Stochastic processes and applications](https://github.com/axmat/stochastic-process)
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with :
+  + Optimal transport (ML, PDEs and Eulerian approach)
+- 💬 Ask me about anything
+- 📫 How to reach me: amthamdan@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
+- Others:
+  + [TMVA Deep Learning Inference](https://github.com/axmat/TMVAInference)
+  + [Graph data structures and algorithms](https://github.com/axmat/graph-algorithms)
+  + [R functions for graphics](https://github.com/axmat/r-functions)
+  + [Optimize single-threaded general matrix multplication ](https://github.com/axmat/optimize-gemm)
+  + [Parallel Kmeans clustering algorithm](https://github.com/axmat/ParallelKMeans)
