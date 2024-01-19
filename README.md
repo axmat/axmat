@@ -16,6 +16,5 @@
 - Others:
   + [TMVA Deep Learning Inference](https://github.com/axmat/TMVAInference)
   + [Graph data structures and algorithms](https://github.com/axmat/graph-algorithms)
-  + [R functions for graphics](https://github.com/axmat/r-functions)
   + [Optimize single-threaded general matrix multplication ](https://github.com/axmat/optimize-gemm)
   + [Parallel Kmeans clustering algorithm](https://github.com/axmat/ParallelKMeans)
