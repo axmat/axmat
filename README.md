@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with :
   + Optimal transport (ML, PDEs and Eulerian approach)
 - 💬 Ask me about anything
-- 📫 How to reach me: amthamdan@gmail.com
+- 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 - Others:
